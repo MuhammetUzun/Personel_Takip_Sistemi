@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personel_Ekleme_Formu_Yeni", "Personel_Ekleme_Formu_Yeni\Personel_Ekleme_Formu_Yeni.csproj", "{D23ABF6F-D314-4E04-96D1-DE1D62733F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23ABF6F-D314-4E04-96D1-DE1D62733F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23ABF6F-D314-4E04-96D1-DE1D62733F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23ABF6F-D314-4E04-96D1-DE1D62733F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23ABF6F-D314-4E04-96D1-DE1D62733F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B3AC9E5-11B1-44C0-84C9-4556F4D6D9EA}
+	EndGlobalSection
+EndGlobal
