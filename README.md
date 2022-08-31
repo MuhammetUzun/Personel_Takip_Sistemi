@@ -6,6 +6,12 @@ Programı kullanabilmek için farmların içerisinde bulunan SqlConnection bagla
 
 Örnek bir database linkte bulunmaktadır:  <a href="https://drive.google.com/file/d/1gujF3LPiJj_JsJYCc3CvAi_8hgSe9IHW/view?usp=sharing">Personel Takip Database</a>
 
+<h3>Admin Giriş Paneli</h3>
+<img src="AdminPanel.png" alt="Admin Paneli">
+<h3>Anasayfa</h3>
+<img src="AnaSayfa.png" alt="Anasayfa">
+<h3>İstatistik</h3>
+<img src="Istatistikler.png" alt="Istatistik">
 
 
 
